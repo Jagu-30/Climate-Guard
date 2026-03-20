@@ -9,21 +9,21 @@
 
 ## 🚀 Live Demo
 
-🌐 **[View Live Demo](https://climate-guard-fastathon.vercel.app/)** _(Deploy link will be updated after deployment)_
+🌐 **[View Live Demo](https://climate-guard-fastathon.vercel.app/)** 
 
 ## 📸 Screenshots
 
 ### 🏠 Landing Page
 
-![Landing Page](./docs/images/landing-page.png)
+![Landing Page](./docs/images/landing.jpeg)
 
 ### 📊 AI Dashboard
 
-![Dashboard](./docs/images/dashboard.png)
+![Dashboard](./docs/images/dashboard.jpeg)
 
 ### 🎙️ Voice Q&A System
 
-![Voice QA](./docs/images/voice-qa.png)
+![Voice QA](./docs/images/voice.png)
 
 ## ✨ Key Features
 
