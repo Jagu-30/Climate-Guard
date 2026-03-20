@@ -23,7 +23,7 @@
 
 ### 🎙️ Voice Q&A System
 
-![Voice QA](./docs/images/voice.png)
+![Voice QA](./docs/images/voice.PNG)
 
 ## ✨ Key Features
 
