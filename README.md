@@ -9,7 +9,7 @@
 
 ## 🚀 Live Demo
 
-🌐 **[View Live Demo](https://climateguard-demo.vercel.app)** _(Deploy link will be updated after deployment)_
+🌐 **[View Live Demo](https://climate-guard-fastathon.vercel.app/)** _(Deploy link will be updated after deployment)_
 
 ## 📸 Screenshots
 
